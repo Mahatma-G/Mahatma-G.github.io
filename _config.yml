@@ -13,8 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://mahatma_g.gitee.io/xiaoge-blog
-root: /
+url: https://mahatma-g.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -104,7 +103,7 @@ theme: zhaoo
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: https://gitee.com/Mahatma_G/xiaoge-blog.git
+  repository: git@github.com:Mahatma-G/Mahatma-G.github.io.git
   branch: main
 
 search:
